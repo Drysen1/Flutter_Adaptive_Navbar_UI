@@ -11,12 +11,15 @@ The online example includes the ability to change to "App mode" in order to see 
 See an online example: <https://drysen1.github.io/flutter-web-examples/adaptive-navbar/#/>
 
 Bottom navigation for users on phone/tablets.
+
 ![alt text](https://github.com/Drysen1/Flutter_Adaptive_Navbar_UI/blob/main/screenshots/floatingBottomBar.png)
 
 Top navigation for users using web browsers.
+
 ![alt text](https://github.com/Drysen1/Flutter_Adaptive_Navbar_UI/blob/main/screenshots/adaptive_navbar_full.png)
 
 Hamburger menu for users using web browsers on small screens.
+
 ![alt text](https://github.com/Drysen1/Flutter_Adaptive_Navbar_UI/blob/main/screenshots/adaptive_navbar_drawer.png)
 
 A new Flutter project.
